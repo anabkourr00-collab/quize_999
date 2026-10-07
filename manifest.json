@@ -1,0 +1,18 @@
+{
+  "name":"مين مهتم؟ - اختبار الأصحاب",
+  "short_name":"مين مهتم؟",
+  "description":"لعبة كرتونية مرحة لاختبار الاهتمام بين الأصحاب",
+  "id":"mn-mohtam-v1",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#100b1b",
+  "theme_color":"#100b1b",
+  "lang":"ar",
+  "dir":"rtl",
+  "icons":[
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
